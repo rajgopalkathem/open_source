@@ -2,7 +2,7 @@ class Math_Operations:
     def __init__(self, first_num, second_num):
         self.first_num = first_num
         self.second_num = second_num
-        print("Two numbers are ", self.first_num, self.second_num)
+        print("Two numbers are= ", self.first_num, self.second_num)
         
     def add(self):
         return ("Addition ",self.first_num + self.second_num)
